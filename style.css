@@ -1,0 +1,18 @@
+.image-container{
+    position: relative;
+}
+.day {
+    position: relative;
+    text-align: center;
+    margin-left: 34%;
+    width: 28%;
+}
+
+.message {
+    position: absolute;
+    top: 30%;
+    left: 38.5%;
+    background: rgba(255,255,255,0.7);
+    padding: 50px;
+    outline: 2px solid #333;
+}
